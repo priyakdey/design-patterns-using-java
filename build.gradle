@@ -10,5 +10,6 @@ plugins {
 
 group = 'com.priyakdey.design.patterns'
 version = '0.0.1-SNAPSHOT'
+
 sourceCompatibility = '17'
 targetCompatibility = '17'
