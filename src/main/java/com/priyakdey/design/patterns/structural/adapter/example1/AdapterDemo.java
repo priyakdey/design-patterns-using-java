@@ -1,4 +1,4 @@
-package com.priyakdey.design.patterns.structural.adapter;
+package com.priyakdey.design.patterns.structural.adapter.example1;
 
 import java.math.BigDecimal;
 import java.util.Currency;
